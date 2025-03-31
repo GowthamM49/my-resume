@@ -1,1 +1,1 @@
-# my-resume
+This HTML webpage displays educational qualifications in a tabular format with a clean CSS design. It includes an interactive popup modal for viewing certificates. The layout ensures a user-friendly experience with an overlay effect.
